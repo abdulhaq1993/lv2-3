@@ -1,0 +1,189 @@
+body{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    background: #eee;;
+}
+h1{
+    color: #659d89;
+    font-size: 4rem;
+    padding-left: 5%;
+
+}
+p{
+    padding-left: 5%;
+    width: 12cm;
+}
+#rt44{
+    padding-left: 5%;
+    padding-top: 30%;
+    text-decoration: none;
+    color: burlywood;
+}
+ul li:nth-of-type(1){
+    position: absolute;
+    right: 4%;
+    top: 40%;
+    color: #333;
+    text-decoration: none;
+    color: burlywood;
+}
+ul li:nth-of-type(2){
+    position: absolute;
+    right: 4%;
+    top: 45%;
+    text-decoration: none;
+    color: burlywood;
+}
+ul li:nth-of-type(3){
+    position: absolute;
+    right: 4%;
+    top: 50%;
+    text-decoration: none;
+    color: burlywood;
+}
+ul li:hover{
+    color: red;
+    font-size: 30;
+    font-style: oblique;
+}
+
+header nav :nth-of-type(1){
+     position: absolute;
+     top: 1%;
+     left: 7%;
+     text-decoration: none;
+     color: burlywood;
+
+}
+header nav :nth-of-type(2){
+    position: absolute;
+    top: 1%;
+    left: 20%;
+    text-decoration: none;
+    color: burlywood;
+
+}
+header nav :nth-of-type(3){
+    position: absolute;
+    top: 1%;
+    left: 30%;
+    text-decoration: none;
+    color: burlywood;
+}
+#dd1{
+    color: rgb(22, 19, 19);
+    font-size: 30px;
+    font-family: sans-serif;
+    
+
+}
+#dd2{
+    color: rgb(45, 45, 68);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.mein1t{
+    display: inline-block;
+    padding-right: 1%;
+    padding-top: 2%;
+    text-decoration: none;
+    color: #659d89;
+    font-size: 1em;
+    text-align: center;
+}
+#im1{
+    padding-left: 10rem;
+    width: 50%;
+}
+#im2{
+    padding-left: 30rem;
+    width: 50%;
+}
+#im3{
+    padding-left: 10rem;
+    width: 50%;
+}
+#im4{
+    padding-left: 30rem;
+    width: 50%;
+}
+#sl1{
+    font-size: 30px;
+    color:#666 ;
+}
+#sl2{
+    padding-left: 37%;
+    padding-top: 5%;
+    text-decoration: none;
+    color: burlywood;
+}
+#st3{
+    padding-left: 37%;
+    padding-top: 1%;
+    color:#666;
+}
+#st4{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+}
+#st5{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+    text-decoration: none;
+    color: burlywood;
+}
+#st6{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+}
+#st7{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+}
+#st8{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+    text-decoration: none;
+    color: burlywood;
+}
+#st9{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+}
+#st10{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+}
+#st11{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+    text-decoration: none;
+    color: burlywood;
+}
+#st12{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+}
+#st13{
+    color: #666;
+    padding-left: 37%;
+    padding-top: 0;
+}
+#st14{
+    padding-bottom: 3%;
+    padding-left: 50%;
+    text-decoration: none;
+    color: burlywood;
+}
+
+
+
+
